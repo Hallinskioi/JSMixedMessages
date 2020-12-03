@@ -12,3 +12,6 @@ body
 p{
     font-style: italic;
 }
+button{
+    background-color: red;
+}

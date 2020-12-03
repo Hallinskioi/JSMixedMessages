@@ -16,14 +16,20 @@
     <br />
 
 
-    <p>
+    <p id="quote">
         This text should not be visible
     </p>
+    <script>
+        var quotes = ["Quote One", "Quote Two", "Quote Three"];
+        var i = quotes[Math.floor(Math.random() * quotes.length)]
+        document.getElementById("quote").innerText = i;
+        console.log(i);
+    </script>
 
     <br />
     <br />
 
-    <button>
+    <button name="Quote Generator"> Click me for a new Quote!
     </button>
 
 </body>
