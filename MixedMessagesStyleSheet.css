@@ -9,9 +9,15 @@ body
 
 }
 
+img{
+    height: 512px;
+    width: auto;
+}
+
 p{
     font-style: italic;
 }
 button{
     background-color: red;
+    color: gold;
 }
