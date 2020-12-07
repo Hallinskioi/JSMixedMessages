@@ -1,5 +1,9 @@
 # JSMixedMessages
 
+In this project I was tasked to create a message generator program. I have chosen these messages to be quotes from Marcus Aurelius (blame Rome Total War!).
+As JS is popular on websites, I decided to create a webpage that on load cycles through various quotes. I also took it a step further and added a button that
+will chose a different quote from the array at random. I also used basic HTML for the button and text boxes and CSS to change the background color and fonts.
+
 
 # Tasks
 1. Create HTML page, JS Text Box, Randomise Button - Done!
